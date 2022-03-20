@@ -9,7 +9,7 @@ Steps:
     2 - Parse data and get the desired value searching into the html parsed document
         In our case, we are finding a <div> with the class="val" <div class="val">value</div> We know that is the first div with that class in the html document.
     3 - Get the value with 'text'
-    4 - Print some custom data with the value obtained.
+    4 - Print some custom data with the obtained value.
 """
 value = ''
 
