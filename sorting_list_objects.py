@@ -9,6 +9,7 @@ items = [
 
 
 # use lambda as an anonnymous function for shorter and cleaner way
+# order items by price
 items.sort(key=lambda item: item[1])
 
 print(items)
